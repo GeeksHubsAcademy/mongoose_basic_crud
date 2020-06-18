@@ -1,0 +1,24 @@
+{
+    "idleHeartbeats": 1416,
+    "navigatingHeartbeats": 477,
+    "totalCodingHeartbeats": 3102,
+    "languageHeartbeats": {
+        "json": 65,
+        "javascript": 3023,
+        "plaintext": 14
+    },
+    "fileHeartbeats": {
+        "package.json": 65,
+        "config/mongoose.js": 58,
+        "index.js": 1230,
+        "dB/User.js": 21,
+        "dB/dbuser.js": 669,
+        "Untitled-1": 14,
+        "dB/dbmovies.js": 552,
+        "models/Movie.js": 151,
+        "models/Order.js": 107,
+        "dB/dborders.js": 95,
+        "dbconnect.js": 13,
+        "config/dbconnect.js": 127
+    }
+}

@@ -1,1 +1,6 @@
-# mongoose_basic_crud
+
+# Crud básico en Mongoose
+
+<p align="center">
+    <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/logo.jpg" >	
+</p>
